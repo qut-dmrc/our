@@ -9,6 +9,7 @@ Documenting the GitHub Actions and integrations.
 
 ## Repositories
 - {`24.09.04-23:34:17`} https://github.com/mokacoding/symlinks/tree/master
+- {`24.09.04-23:40:45`} https://github.com/robocorp/example-use-git-submodule-for-shared-code
 
 ## Explainers
 - {`24.09.04-23:38:18`} https://github.blog/open-source/git/working-with-submodules/
