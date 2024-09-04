@@ -13,3 +13,4 @@ Documenting the GitHub Actions and integrations.
 
 ## Explainers
 - {`24.09.04-23:38:18`} https://github.blog/open-source/git/working-with-submodules/
+- {`24.09.04-23:41:38`} "Git Submodules basic explanation" {[ ... ](http://gist.github.com/gitaarik/8735255)}
