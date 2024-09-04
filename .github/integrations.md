@@ -21,6 +21,7 @@ Documenting the GitHub Actions and integrations.
 - {`24.09.04-23:59:38`} https://github.com/marketplace/actions/github-projects-get-field-ids
 - {`24.09.05-00:00:19`} https://github.com/marketplace/actions/update-project-items
 - {`24.09.05-00:04:13`} https://github.com/marketplace/actions/update-github-project-fields (!!)
+  - {`24.09.05-00:05:38`} https://github.com/marketplace/actions/project-update
 
 ## Examples
 - {`24.09.04-23:55:37`} https://github.com/NdagiStanley/github-project-automation
