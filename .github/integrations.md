@@ -18,6 +18,7 @@ Documenting the GitHub Actions and integrations.
 ## Utilities
 - {`24.09.04-23:47:54`} https://github.com/marketplace/actions/sync-template-repository
 - {`24.09.04-23:51:56`} https://github.com/marketplace/actions/get-project-item-id
+- {`24.09.04-23:59:38`} https://github.com/marketplace/actions/github-projects-get-field-ids
 
 ## Examples
 - {`24.09.04-23:55:37`} https://github.com/NdagiStanley/github-project-automation
