@@ -30,6 +30,7 @@ Documenting the GitHub Actions and integrations.
 - {`24.09.05-02:40:57`} "Hardlinks from a Git repo" {[ ... ](https://idiomdrottning.org/gln)}
 - {`24.09.05-03:19:19`} "Run your GitHub Actions locally" {[ ... ](https://github.com/nektos/act)}
 - {`24.09.05-03:27:54`} "Local Action Debugger" {[ ... ](https://github.com/github/local-action?tab=readme-ov-file)}
+- {`24.09.05-04:16:40`} "action-commit-store" {[ ... ](https://github.com/marketplace/actions/action-commit-store)} 
 
 ## Examples
 - {`24.09.04-23:55:37`} https://github.com/NdagiStanley/github-project-automation
