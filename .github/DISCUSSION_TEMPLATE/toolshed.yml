@@ -1,0 +1,159 @@
+title: "[I use] "
+labels: ["tool","toolshed"]
+body:
+  - type: markdown
+    attributes: 
+      value: "## Info"
+  - type: input
+    id: repo
+    attributes:
+      label: Repository
+      description: "Provide a source code repository link"
+      placeholder: "https://.."
+  - type: input
+    id: registry
+    attributes:
+      label: Registry
+      description: "Provide a package endpoint"
+      placeholder: "https://.."
+  - type: input
+    id: guide
+    attributes:
+      label: URL
+      description: "Provide a documentation or usage guide link"
+      placeholder: "https://.."
+  - type: markdown
+    attributes: 
+      value: "## Meta"
+  - type: dropdown
+    id: step
+    attributes:
+      # description: Useful during
+      label: "When"
+      multiple: true
+      options:
+        - Initiating
+        - Preparing
+        - Applying
+        - Evaluating
+        - Publishing
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: "Type"
+      multiple: true
+      options:
+        - Self-hosted
+        - Cloud-based
+        - Standalone
+        - Component
+        - Endpoint
+        - Module
+        - Framework
+        - Platform
+        - Library
+        - Package
+        - Plugin
+        - Suite
+        - App
+    validations:
+      required: true
+  - type: dropdown
+    id: docs
+    attributes:
+      label: "Docs"
+      multiple: true
+      options:
+        - Absent
+        - Scarce
+        - Brief
+        - Fair
+        - Live
+        - Good
+        - Superb
+        - Static
+        - Verbose
+        - Examplary
+    validations:
+      required: true
+  - type: markdown
+    attributes: 
+      value: "## Review"
+  - type: dropdown
+    id: pros
+    attributes:
+      # description: You may select more than one.
+      label: "Pros:"
+      multiple: true
+      options:
+        - Performance
+        - Ease of use
+        - Cost-effective
+        - Feature-rich
+        - Scalable
+    validations:
+      required: true
+  - type: input
+    id: more
+    attributes:
+      label: "Feat:"
+      description: "More reasons to like this."
+      placeholder: "..."
+  - type: markdown
+    attributes: 
+      value: "##"
+  - type: dropdown
+    attributes:
+      label: "Cons:"
+      # description: You may select more than one.
+      multiple: true
+      options:
+        - Steep learning curve
+        - Limited compatibility
+        - Outdated features
+        - Poor support
+        - Usage costs
+    validations:
+      required: true
+  - type: input
+    id: less
+    attributes:
+      label: "Flaw:"
+      description: "Less reasons to like this."
+      placeholder: "..."
+  - type: markdown
+    attributes: 
+      value: "##"    
+  - type: textarea
+    id: hint
+    attributes:
+      label: "Hint"
+      placeholder: "Usage tips and tricks"
+  - type: dropdown
+    id: env
+    attributes:
+      label: "Used:"
+      description: Usage environment conditions.
+      multiple: true
+      options:
+        - MacOS
+        - Linux
+        - Windows
+        - Docker
+        - Chrome
+        - FireFox
+        - Safari
+        - Edge
+        - Python
+        - JavaScript
+        - Julia
+        - Java
+        - R
+  - type: input
+    id: else
+    attributes:
+      label: "Else:"
+      description: Other conditions.
+      placeholder: "..."
