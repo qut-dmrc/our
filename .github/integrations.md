@@ -27,7 +27,8 @@ Documenting the GitHub Actions and integrations.
 - {`24.09.05-00:48:57`} https://github.com/marketplace/actions/issue-to-markdown
 - {`24.09.05-00:54:11`} https://github.com/marketplace/actions/discussion-auto-responder (!!)
 - {`24.09.05-00:56:11`} https://github.com/marketplace/actions/label-actions
-- {`24.09.05-02:40:57`} "Hardlinks from a Git repo" {[ ... ](https://idiomdrottning.org/gln)} 
+- {`24.09.05-02:40:57`} "Hardlinks from a Git repo" {[ ... ](https://idiomdrottning.org/gln)}
+- {`24.09.05-03:19:19`} "Run your GitHub Actions locally" {[ ... ](https://github.com/nektos/act)} 
 
 ## Examples
 - {`24.09.04-23:55:37`} https://github.com/NdagiStanley/github-project-automation
