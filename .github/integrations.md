@@ -27,3 +27,4 @@ Documenting the GitHub Actions and integrations.
 ## Examples
 - {`24.09.04-23:55:37`} https://github.com/NdagiStanley/github-project-automation
 - {`24.09.04-23:57:59`} https://github.com/imnotjames/github-project-to-markdown
+- {`24.09.05-00:53:14`} https://github.com/Namchee/dupliket
