@@ -37,3 +37,11 @@ Documenting the GitHub Actions and integrations.
 - {`24.09.04-23:57:59`} https://github.com/imnotjames/github-project-to-markdown
 - {`24.09.05-00:53:14`} https://github.com/Namchee/dupliket
 - {`24.09.05-00:56:46`} https://github.com/marketplace/actions/mark-discussion-comment-answer
+
+## Pages
+- {`24.09.05-16:05:03`} https://www.stephanmiller.com/static-site-search/
+- {`24.09.05-16:05:20`} https://nathenry.com/writing/2020-10-05-scripts-jekyll.html
+- {`24.09.05-16:05:34`} https://cloudcannon.com/blog/bundling-javascript-for-jekyll/
+
+## Components
+- {`24.09.05-16:07:18`} https://github.com/andreasbm/masonry-layout
