@@ -42,6 +42,7 @@ Documenting the GitHub Actions and integrations.
 - {`24.09.05-16:05:03`} https://www.stephanmiller.com/static-site-search/
 - {`24.09.05-16:05:20`} https://nathenry.com/writing/2020-10-05-scripts-jekyll.html
 - {`24.09.05-16:05:34`} https://cloudcannon.com/blog/bundling-javascript-for-jekyll/
+- {`24.09.28-13:17:43`} https://github.com/s0/git-publish-subdir-action
 
 ## Components
 - {`24.09.05-16:07:18`} https://github.com/andreasbm/masonry-layout
